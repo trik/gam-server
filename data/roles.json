@@ -1,0 +1,5 @@
+[
+  {"name": "super_admin", "label": "Super Admin", "fixed": true},
+  {"name": "admin", "label": "Admin", "fixed": true},
+  {"name": "user", "label": "User", "fixed": true}
+]
