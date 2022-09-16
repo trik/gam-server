@@ -2,7 +2,7 @@ alembic==1.2.0
 falcon==2.0.0
 falcon-auth==1.1.0
 falcors==2.0.0
-Mako==1.1.0
+Mako==1.2.2
 MarkupSafe==1.1.1
 marshmallow==3.2.0
 marshmallow-sqlalchemy==0.19.0
